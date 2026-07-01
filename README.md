@@ -85,47 +85,6 @@ Every project in this portfolio represents a new milestone in my learning journe
 
 
 
-## 📸 Portfolio Preview
-
-A quick look at my personal portfolio website.
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏠 Home
-
-<img src="./images/home.png.png" alt="Home" width="100%">
-
-</td>
-
-<td align="center" width="50%">
-
-### 👨‍💻 About & Skills
-
-<img src="./images/about.png.png" alt="About" width="100%">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🚀 Projects
-
-<img src="./images/projects.png.png" alt="Projects" width="100%">
-
-</td>
-
-<td align="center">
-
-### 📬 Contact
-
-<img src="./images/contact.png.png" alt="Contact" width="100%">
-
-</td>
-</tr>
-</table>
 
 
 
