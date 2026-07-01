@@ -95,7 +95,7 @@ A quick look at my personal portfolio website.
 
 ### 🏠 Home
 
-<img src="./images/home.png" alt="Home" width="100%">
+<img src="./images/home.png.png" alt="Home" width="100%">
 
 </td>
 
@@ -103,7 +103,7 @@ A quick look at my personal portfolio website.
 
 ### 👨‍💻 About & Skills
 
-<img src="./images/about.png" alt="About" width="100%">
+<img src="./images/about.png.png" alt="About" width="100%">
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ A quick look at my personal portfolio website.
 
 ### 🚀 Projects
 
-<img src="./images/projects.png" alt="Projects" width="100%">
+<img src="./images/projects.png.png" alt="Projects" width="100%">
 
 </td>
 
@@ -121,7 +121,7 @@ A quick look at my personal portfolio website.
 
 ### 📬 Contact
 
-<img src="./images/contact.png" alt="Contact" width="100%">
+<img src="./images/contact.png.png" alt="Contact" width="100%">
 
 </td>
 </tr>
