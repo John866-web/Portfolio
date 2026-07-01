@@ -1,5 +1,8 @@
 # Portfolio
 
+---
+
+
 
 # 🌐 Personal Portfolio Website
 
@@ -9,6 +12,8 @@ This portfolio represents my journey as an aspiring **AI & Machine Learning Engi
 
 ---
 
+
+
 ## 📌 About
 
 This portfolio was built to create a professional online presence where recruiters, developers, and collaborators can explore my work.
@@ -16,6 +21,9 @@ This portfolio was built to create a professional online presence where recruite
 It highlights my technical skills, featured projects, certifications, GitHub repositories, and contact information in a clean and responsive design.
 
 ---
+
+
+
 
 ## ✨ Features
 
@@ -30,6 +38,10 @@ It highlights my technical skills, featured projects, certifications, GitHub rep
 
 ---
 
+
+
+
+
 ## 🚀 Technologies Used
 
 - HTML5
@@ -38,6 +50,9 @@ It highlights my technical skills, featured projects, certifications, GitHub rep
 - GitHub Pages
 
 ---
+
+
+
 
 ## 📂 Featured Projects
 
@@ -52,6 +67,10 @@ This portfolio will continue to grow as I build more projects in AI, Machine Lea
 
 ---
 
+
+
+
+
 ## 🎯 Goals
 
 My goal is to continuously improve my development skills by building real-world projects and contributing to open-source communities.
@@ -59,6 +78,10 @@ My goal is to continuously improve my development skills by building real-world 
 Every project in this portfolio represents a new milestone in my learning journey.
 
 ---
+
+
+
+
 
 ## 📸 Preview
 
@@ -70,12 +93,19 @@ Every project in this portfolio represents a new milestone in my learning journe
 
 ---
 
+
+
+
+
 ## 🌐 Live Demo
 
 🔗 **Portfolio:**  
-https://your-portfolio-link.com
+https://john866-web.github.io/Portfolio/
 
 ---
+
+
+
 
 ## 📫 Connect With Me
 
@@ -84,6 +114,9 @@ https://your-portfolio-link.com
 - 📧 Email
 
 ---
+
+
+
 
 ## ⭐ Support
 
@@ -95,11 +128,16 @@ It motivates me to build more amazing projects.
 
 ---
 
+
+
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
 
 ---
+
+
 
 ### 🚀 Designed & Developed by John Joel
 
