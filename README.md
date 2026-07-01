@@ -85,13 +85,7 @@ Every project in this portfolio represents a new milestone in my learning journe
 
 ## 📸 Preview
 
-> Add a screenshot of your portfolio here.
 
-```html
-<img src="images/portfolio-preview.png" alt="Portfolio Preview">
-```
-
----
 
 
 
