@@ -90,30 +90,41 @@ A quick look at my personal portfolio website.
 
 <table>
 <tr>
-<td align="center">
-<b>🏠 Home</b><br><br>
-<img src="Screenshot 2026-07-01 095543.png" width="100%">
+<td align="center" width="50%">
+
+### 🏠 Home
+
+<img src="./images/home.png" alt="Home" width="100%">
+
 </td>
 
-<td align="center">
-<b>👨‍💻 About & Skills</b><br><br>
-<img src="Screenshot 2026-07-01 095627.png" width="100%">
+<td align="center" width="50%">
+
+### 👨‍💻 About & Skills
+
+<img src="./images/about.png" alt="About" width="100%">
+
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<b>🚀 Projects</b><br><br>
-<img src="Screenshot 2026-07-01 095659.png" width="100%">
+
+### 🚀 Projects
+
+<img src="./images/projects.png" alt="Projects" width="100%">
+
 </td>
 
 <td align="center">
-<b>📬 Contact</b><br><br>
-<img src="Screenshot 2026-07-01 095723.png" width="100%">
+
+### 📬 Contact
+
+<img src="./images/contact.png" alt="Contact" width="100%">
+
 </td>
 </tr>
 </table>
-
 
 
 
